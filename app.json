@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "cryptoTrackermobile",
+    "slug": "cryptoTrackermobile-cc0135f9-d24b-4c9e-9892-c4458342d5ff",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nchand041989.snackcc0135f9d24b4c9e9892c4458342d5ff",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.nchand041989.snackcc0135f9d24b4c9e9892c4458342d5ff"
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    },
+    "extra": {
+    },
+    "owner": "nchand041989"
+  }
+}
