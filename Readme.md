@@ -29,6 +29,10 @@ import CoinCard from './components/CoinCard';
 
 The background and styles adapt based on favorite status. The primary color for favorites is `#1e40af`, and the normal background color is `#1f2937`.
 
+## ⭐ Feature Highlight: Marking a Coin as Favorite
+
+Users can **long-press** on any coin card to **add or remove** it from their favorites list. This interaction offers a quick and intuitive way to manage preferred coins.
+
 ---
 
 ## ▶️ How to View in Expo Snack Online
